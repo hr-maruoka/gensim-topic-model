@@ -1,1 +1,2 @@
-# gensim.topic.model
+# gensim-topic-model
+illustration of topic model
